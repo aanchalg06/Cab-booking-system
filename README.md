@@ -22,7 +22,6 @@ Taxis play a crucial role in urban transportation, serving various needs from co
 - **Backend:** Python, Java
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** MySQL
-- **Additional Technologies:** Java
 
 ## Constraints
 
